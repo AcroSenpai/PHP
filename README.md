@@ -1,1 +1,1 @@
-"# PHP" 
+Exercises for the PHP class.
